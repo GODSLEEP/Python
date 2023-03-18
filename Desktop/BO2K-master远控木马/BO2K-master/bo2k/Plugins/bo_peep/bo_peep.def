@@ -1,5 +1,0 @@
-LIBRARY bo_peep
-EXPORTS
-	InstallPlugin
-	TerminatePlugin
-	PluginVersion

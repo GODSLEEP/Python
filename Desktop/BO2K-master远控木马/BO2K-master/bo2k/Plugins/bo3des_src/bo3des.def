@@ -1,5 +1,0 @@
-LIBRARY bo3des
-EXPORTS
-	InstallPlugin
-	TerminatePlugin
-	PluginVersion

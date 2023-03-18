@@ -1,5 +1,0 @@
-LIBRARY botool
-EXPORTS
-	InstallPlugin
-	TerminatePlugin
-	PluginVersion
